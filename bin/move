@@ -10,4 +10,7 @@ def move(board, index)
   input_to_index
 end
 
-move(
+move(board, index)
+
+display_board
+
